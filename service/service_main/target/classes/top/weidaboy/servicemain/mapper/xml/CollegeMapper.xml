@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.weidaboy.servicemain.mapper.CollegeMapper">
+    <!--    #备注 ： 存在弊端，如果教师和学生缺少某个学院的，那么就计算不出来综合 todo!!!-->
+    <select id="getAllPeopel" resultType="top.weidaboy.servicemain.query.CollegeQuery">
+            SELECT
+                c.id,
+                c.`name`,
+                tea.num + stu.num AS sum,
+                tea.num AS tnum,
+                stu.num AS snum
+            FROM
+                college c
+                LEFT JOIN (
+                SELECT
+                    c.id,
+                    c.NAME,
+                    s.is_delete,
+                    COUNT( s.collegeid ) AS num
+                FROM
+                    student s,
+                    college c
+                WHERE
+                    c.id = s.collegeid
+                GROUP BY
+                    c.id
+                ) stu ON c.id = stu.id
+                AND stu.is_delete = 0
+                LEFT JOIN (
+                SELECT
+                    c.id,
+                    c.NAME,
+                    s.is_delete,
+                    COUNT( s.collegeid ) AS num
+                FROM
+                    teacher s,
+                    college c
+                WHERE
+                    c.id = s.collegeid
+                GROUP BY
+                    c.id
+                ) tea ON c.id = tea.id
+                AND tea.is_delete = 0
+    </select>
+
+
+</mapper>

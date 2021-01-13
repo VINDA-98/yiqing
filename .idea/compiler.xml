@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service_yiqing" />
+        <module name="service_oss" />
+        <module name="service_main" />
+        <module name="service-base" />
+        <module name="service_msm" />
+        <module name="common-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="common-utils" target="1.8" />
+      <module name="graduation" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-base" target="1.8" />
+      <module name="service_main" target="1.8" />
+      <module name="service_msm" target="1.8" />
+      <module name="service_oss" target="1.8" />
+      <module name="service_yiqing" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="common-utils" options="-parameters" />
+      <module name="graduation" options="" />
+      <module name="service" options="-parameters" />
+      <module name="service-base" options="-parameters" />
+      <module name="service_main" options="-parameters" />
+      <module name="service_msm" options="-parameters" />
+      <module name="service_oss" options="-parameters" />
+      <module name="service_yiqing" options="-parameters" />
+      <module name="servicebase" options="-parameters" />
+    </option>
+  </component>
+</project>

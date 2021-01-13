@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>service</artifactId>
+        <groupId>top.weidaboy</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>service_main</artifactId>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+        <!--        解析xml-->
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.afterturn</groupId>
+            <artifactId>easypoi-base</artifactId>
+            <version>3.2.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.afterturn</groupId>
+            <artifactId>easypoi-web</artifactId>
+            <version>3.2.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.afterturn</groupId>
+            <artifactId>easypoi-annotation</artifactId>
+            <version>3.2.0</version>
+        </dependency>
+
+        <!--jxl-->
+        <dependency>
+            <groupId>net.sourceforge.jexcelapi</groupId>
+            <artifactId>jxl</artifactId>
+            <version>2.6.12</version>
+        </dependency>
+
+        <!-- AMQP需要的依赖-->
+        <!-- amqp 1.0 qpid client -->
+        <dependency>
+            <groupId>org.apache.qpid</groupId>
+            <artifactId>qpid-jms-client</artifactId>
+            <version>0.47.0</version>
+        </dependency>
+        <!-- util for base64-->
+        <dependency>
+            <groupId>commons-codec</groupId>
+            <artifactId>commons-codec</artifactId>
+            <version>1.10</version>
+        </dependency>
+
+        <!-- 转拼音-->
+        <!-- https://mvnrepository.com/artifact/com.github.open-android/pinyin4j -->
+        <dependency>
+            <groupId>com.belerweb</groupId>
+            <artifactId>pinyin4j</artifactId>
+            <version>2.5.0</version>
+        </dependency>
+    </dependencies>
+
+    <!-- MAVEN项目部署时无法将mapper.xml文件部署，需要通过以下配置解决 -->
+    <build>
+        <!--资源往往不是代码，无需编译，而是一些properties或XML配置文件，构建过程中会往往会将资源文件从源路径复制到指定的目标路径。-->
+        <resources>
+            <resource>
+                <!--directory，资源文件的路径，默认位于${basedir}/src/main/resources/目录下-->
+                <directory>src/main/java</directory>
+                <!--includes，一组文件名的匹配模式，被匹配的资源文件将被构建过程处理-->
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+                <!--excludes：指定哪些文件被忽略，如果一个文件同时符合includes和excludes，则excludes生效；-->
+                <excludes>
+                    <exclude>**/*.properties</exclude>
+                </excludes>
+                <!--filtering，构建过程中是否对资源进行过滤，默认false-->
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+    </build>
+
+</project>

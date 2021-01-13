@@ -1,0 +1,60 @@
+2021-01-02 11:14:33.650 [restartedMain] WARN  org.dozer.config.GlobalSettings - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2021-01-02 11:14:38.635 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:14:38.640 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:27:50.767 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2021-01-02 11:27:51.290 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:27:51.296 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:32:21.229 [restartedMain] WARN  org.dozer.config.GlobalSettings - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2021-01-02 11:32:25.962 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:32:25.970 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:32:35.591 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2021-01-02 11:32:36.038 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:32:36.042 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 11:52:03.457 [http-nio-8011-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021010211520388' for key 'PRIMARY'
+### The error may involve top.weidaboy.servicemain.mapper.TempMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO temp  ( id, collegeid, majorid, classid, userid, name, temp,   gmt_create, gmt_modified, gmt_tempend )  VALUES  ( ?, ?, ?, ?, ?, ?, ?,   ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021010211520388' for key 'PRIMARY'
+; Duplicate entry '2021010211520388' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021010211520388' for key 'PRIMARY']
+2021-01-02 14:37:18.677 [restartedMain] WARN  org.dozer.config.GlobalSettings - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2021-01-02 14:37:21.840 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 14:37:21.845 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 15:29:15.755 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2021-01-02 15:29:16.276 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 15:29:16.283 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 15:55:22.221 [restartedMain] WARN  org.dozer.config.GlobalSettings - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2021-01-02 15:55:26.639 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 15:55:26.646 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 16:16:46.740 [restartedMain] WARN  org.dozer.config.GlobalSettings - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2021-01-02 16:16:54.003 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 16:16:54.053 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 16:16:54.478 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 16:16:54.483 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 16:16:54.841 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2021-01-02 19:39:05.372 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 19:39:05.492 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 19:40:21.337 [restartedMain] WARN  org.dozer.config.GlobalSettings - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2021-01-02 19:40:26.655 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 19:40:26.659 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 19:40:26.892 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2021-01-02 22:10:15.577 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 22:10:15.606 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 22:12:05.698 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 22:12:05.704 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-02 22:12:30.994 [http-nio-8011-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 't.tripend' in 'field list'
+### The error may exist in file [D:\ADaDemo\graduation\service\service_main\target\classes\top\weidaboy\servicemain\mapper\xml\TripMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT             t.collegeid ,             c.`name`,             COUNT( t.collegeid ) AS sum,             DATE_FORMAT(t.tripend,'%Y-%m-%d') AS `day`             FROM temp t,college c             where                 DATE_FORMAT(t.tripend,'%Y-%m-%d') = DATE_FORMAT(NOW(),'%Y-%m-%d')             and t.collegeid = c.id             and c.is_delete = 0         GROUP BY t.collegeid ASC;
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 't.tripend' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 't.tripend' in 'field list']
+2021-01-02 22:13:27.802 [http-nio-8011-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 't.tripend' in 'field list'
+### The error may exist in file [D:\ADaDemo\graduation\service\service_main\target\classes\top\weidaboy\servicemain\mapper\xml\TripMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT             t.collegeid ,             c.`name`,             COUNT( t.collegeid ) AS sum,             DATE_FORMAT(t.tripend,'%Y-%m-%d') AS `day`             FROM temp t,college c             where                 DATE_FORMAT(t.tripend,'%Y-%m-%d') = DATE_FORMAT(NOW(),'%Y-%m-%d')             and t.collegeid = c.id             and c.is_delete = 0         GROUP BY t.collegeid ASC;
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 't.tripend' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 't.tripend' in 'field list']

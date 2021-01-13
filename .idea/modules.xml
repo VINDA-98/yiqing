@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduation.iml" filepath="$PROJECT_DIR$/graduation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service-base/service-base.iml" filepath="$PROJECT_DIR$/common/service-base/service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_main/service_main.iml" filepath="$PROJECT_DIR$/service/service_main/service_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_msm/service_msm.iml" filepath="$PROJECT_DIR$/service/service_msm/service_msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_oss/service_oss.iml" filepath="$PROJECT_DIR$/service/service_oss/service_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_yiqing/service_yiqing.iml" filepath="$PROJECT_DIR$/service/service_yiqing/service_yiqing.iml" />
+    </modules>
+  </component>
+</project>

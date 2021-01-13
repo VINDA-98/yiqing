@@ -1,0 +1,29 @@
+2020-12-31 09:28:49.849 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-31 09:28:49.909 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-31 10:12:19.082 [http-nio-8011-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2020-12-31 10:12:27.239 [http-nio-8011-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2020-12-31 11:15:24.381 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-31 11:15:24.387 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-31 11:15:36.865 [http-nio-8011-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111153622' for key 'PRIMARY'
+### The error may involve top.weidaboy.servicemain.mapper.TripMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO trip  ( id, name, userid, trip,   classid, majorid, collegeid, gmt_create, gmt_modified, gmt_tripend )  VALUES  ( ?, ?, ?, ?,   ?, ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111153622' for key 'PRIMARY'
+; Duplicate entry '2021123111153622' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111153622' for key 'PRIMARY']
+2020-12-31 11:15:38.369 [http-nio-8011-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111153895' for key 'PRIMARY'
+### The error may involve top.weidaboy.servicemain.mapper.TripMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO trip  ( id, name, userid, trip,     collegeid, gmt_create, gmt_modified, gmt_tripend )  VALUES  ( ?, ?, ?, ?,     ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111153895' for key 'PRIMARY'
+; Duplicate entry '2021123111153895' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111153895' for key 'PRIMARY']
+2020-12-31 11:54:01.447 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-31 11:54:01.454 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-31 11:54:27.823 [http-nio-8011-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111542713' for key 'PRIMARY'
+### The error may involve top.weidaboy.servicemain.mapper.TempMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO temp  ( id, collegeid, majorid, classid, userid, name, temp,   gmt_create, gmt_modified, gmt_tempend )  VALUES  ( ?, ?, ?, ?, ?, ?, ?,   ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111542713' for key 'PRIMARY'
+; Duplicate entry '2021123111542713' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2021123111542713' for key 'PRIMARY']
