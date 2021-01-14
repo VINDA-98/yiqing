@@ -7,6 +7,7 @@
         <groupId>top.weidaboy</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+    <packaging>jar</packaging>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>service_msm</artifactId>
@@ -33,5 +34,16 @@
             <version>2.3.3.RELEASE</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>servicemsm</finalName>
+        <plugins>
+            <plugin>
+                <!--该插件主要用途：构建可执行的JAR -->
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
