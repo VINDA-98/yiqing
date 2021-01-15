@@ -4,214 +4,17 @@
     <list default="true" id="c10ca5ba-e2c8-4d04-9c17-4944a5db99e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/common-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common-utils/target/classes/top/weidaboy/commonutils/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common-utils/target/classes/top/weidaboy/commonutils/ResultCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common-utils/target/classes/top/weidaboy/commonutils/util/ExceptionUtil.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/common/service-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-base/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-base/target/service-base-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/target/service-base-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-base/target/service-base-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/MainApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/client/MQTTFeignClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/client/MQTTclient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/client/MSMClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/client/MSMFeignClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/config/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/config/MybatisPlusConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/AMQPController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/AdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/ClassController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/CollegeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/ExeclController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/MajorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/StudentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/TeacherController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/TempController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/TouristController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/controller/TripController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/College.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Major.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Tourist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/Trip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/UserExcel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/entity/vo/StudentVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/exception/NormalException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/AdminMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/ClassMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/CollegeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/MajorMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/StudentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/TeacherMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/TempMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/TouristMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/TripMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/AdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/ClassMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/CollegeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/LocList.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/MajorMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/StudentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/TeacherMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/TempMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/TouristMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/mapper/xml/TripMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/poi/PoiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/ClassQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/CollegeQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/MajorQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/StudentQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/TeacherQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/TempQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/query/TripQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/AMQPService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/AdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/ClassService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/CollegeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/MajorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/StudentVoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/TeacherService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/TempService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/TouristService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/TripService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/AMQPServiceImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/AMQPServiceImpl$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/AMQPServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/AdminServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/ClassServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/CollegeServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/MajorServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/StudentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/TeacherServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/TempServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/TouristServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/service/impl/TripServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/util/LocalUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/util/NewID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/classes/top/weidaboy/servicemain/util/PinYin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/target/test-classes/top/weidaboy/mainservice/getCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/top/weidaboy/servicemsm/ServiceMSMApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/top/weidaboy/servicemsm/config/Myconfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/top/weidaboy/servicemsm/controller/SendEmailController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/top/weidaboy/servicemsm/service/AsyncService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/top/weidaboy/servicemsm/util/EmailUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/META-INF/service_oss.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/OssApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/controller/MQTTController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/controller/OssController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/service/MQTTService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/service/OssService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/service/impl/MQTTServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/service/impl/OssServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/top/weidaboy/oss/utils/ConstantPropertiesUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_yiqing/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/generator/CityDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/generator/NationDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/generator/ProvinceDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/sql/infectstatisticwebdb.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/BackendApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/component/ScheduledJob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/config/CorseConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/config/DozerBeanMapperConfigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/config/ScheduleConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/controller/CityController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/controller/NationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/controller/ProvinceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/dao/CityDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/dao/NationDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/dao/ProvinceDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/ConfirmedIncrPathVar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/ConfirmedPathVar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/DeadCuredPathVar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NcovBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NewsList$Desc$DescBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NewsList$Desc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NewsList$New$NewBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NewsList$New.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NewsList$NewsListBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov$NewsList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/Ncov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/NcovCity$NcovCityBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/NcovCity$News$City$CityBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/NcovCity$News$City.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/NcovCity$News$NewsBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/NcovCity$News.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/NcovCity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/PathVar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/entity/PathVarFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityPO$CityPOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityPOExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityPOExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityPOExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityPOExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityVO$CityVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/CityVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/HelloVO$HelloVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/HelloVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationPO$NationPOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationPOExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationPOExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationPOExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationPOExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationVO$NationVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationVOExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationVOExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationVOExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/NationVOExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceMapVO$NationalProvinceVO$NationalProvinceVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceMapVO$NationalProvinceVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceMapVO$ProvinceMapVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceMapVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvincePO$ProvincePOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvincePO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvincePOExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvincePOExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvincePOExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvincePOExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceTendencyVO$ProvinceTendencyVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceTendencyVO$Serie$SerieBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceTendencyVO$Serie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceTendencyVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceVO$ProvinceVOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/model/ProvinceVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/service/CityService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/service/NationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/service/ProvinceService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/service/impl/CityServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/service/impl/NationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/service/impl/ProvinceServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/utils/CityMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/utils/DataRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/utils/NationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/target/classes/top/weidaboy/yiqing/utils/ProvinceMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/service/impl/TripServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/service/impl/TripServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/util/LocalUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/util/LocalUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_yiqing/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_yiqing/src/main/resources/logback-spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,20 +117,20 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ADaDemo\graduation\mycommon" />
+      <recent name="D:\ADaDemo\graduation\common\servicebase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.weidaboy.servicemain.query" />
+      <recent name="top.weidaboy.oss.service.impl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ADaDemo\graduation\service\service_yiqing" />
       <recent name="D:\ADaDemo\graduation\service\service_yiqing\src\main\resources" />
       <recent name="D:\ADaDemo\graduation\service\service_yiqing\src\main\java\top\weidaboy\yiqing" />
       <recent name="D:\ADaDemo\graduation\service\service_main\src\main\java\top\weidaboy\servicemain\mapper\xml" />
       <recent name="D:\ADaDemo\graduation\service\service_msm\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="top.weidaboy.servicemain.query" />
-      <recent name="top.weidaboy.oss.service.impl" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ADaDemo\graduation\mycommon" />
-      <recent name="D:\ADaDemo\graduation\common\servicebase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -510,6 +313,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
@@ -571,7 +379,8 @@
       <workItem from="1610351555799" duration="2681000" />
       <workItem from="1610415680414" duration="4740000" />
       <workItem from="1610508196458" duration="8796000" />
-      <workItem from="1610587916506" duration="1371000" />
+      <workItem from="1610587916506" duration="8024000" />
+      <workItem from="1610671596777" duration="10542000" />
     </task>
     <task id="LOCAL-00001" summary="我的毕设首次提交">
       <created>1610519882116</created>
@@ -580,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610519882116</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="部署项目的相关操作">
+      <created>1610589424682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610589424683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +404,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="我的毕设首次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="我的毕设首次提交" />
+    <MESSAGE value="部署项目的相关操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="部署项目的相关操作" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2352" y="164" key="#Project_Structure" timestamp="1610589102309">
@@ -620,54 +437,54 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2490" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1609128702789" />
-    <state x="2214" y="97" key="CommitChangelistDialog2" timestamp="1610519867520">
+    <state x="2214" y="97" key="CommitChangelistDialog2" timestamp="1610589407017">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2214" y="97" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610519867520" />
+    <state x="2214" y="97" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589407017" />
     <state x="2540" y="255" width="440" height="494" key="FileChooserDialogImpl" timestamp="1610510568531">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2540" y="255" width="440" height="494" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610510568531" />
-    <state width="1637" height="295" key="GridCell.Tab.0.bottom" timestamp="1610589330805">
+    <state width="1637" height="377" key="GridCell.Tab.0.bottom" timestamp="1610695188787">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="1637" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589330805" />
-    <state width="1637" height="295" key="GridCell.Tab.0.center" timestamp="1610589330805">
+    <state width="1637" height="377" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610695188787" />
+    <state width="1637" height="377" key="GridCell.Tab.0.center" timestamp="1610695188787">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="1637" height="295" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589330805" />
-    <state width="1637" height="295" key="GridCell.Tab.0.left" timestamp="1610589330805">
+    <state width="1637" height="377" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610695188787" />
+    <state width="1637" height="377" key="GridCell.Tab.0.left" timestamp="1610695188787">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="1637" height="295" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589330805" />
-    <state width="1637" height="295" key="GridCell.Tab.0.right" timestamp="1610589330805">
+    <state width="1637" height="377" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610695188787" />
+    <state width="1637" height="377" key="GridCell.Tab.0.right" timestamp="1610695188787">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="1637" height="295" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589330805" />
-    <state width="704" height="344" key="GridCell.Tab.1.bottom" timestamp="1610545972755">
+    <state width="1637" height="377" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610695188787" />
+    <state width="1125" height="463" key="GridCell.Tab.1.bottom" timestamp="1610694889107">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="704" height="344" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610545972755" />
-    <state width="704" height="344" key="GridCell.Tab.1.center" timestamp="1610545972755">
+    <state width="1125" height="463" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610694889107" />
+    <state width="1125" height="463" key="GridCell.Tab.1.center" timestamp="1610694889106">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="704" height="344" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610545972755" />
-    <state width="704" height="344" key="GridCell.Tab.1.left" timestamp="1610545972755">
+    <state width="1125" height="463" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610694889106" />
+    <state width="1125" height="463" key="GridCell.Tab.1.left" timestamp="1610694889106">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="704" height="344" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610545972755" />
-    <state width="704" height="344" key="GridCell.Tab.1.right" timestamp="1610545972755">
+    <state width="1125" height="463" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610694889106" />
+    <state width="1125" height="463" key="GridCell.Tab.1.right" timestamp="1610694889107">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="642" height="291" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1610460214693" />
-    <state width="704" height="344" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610545972755" />
+    <state width="1125" height="463" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610694889107" />
     <state width="1125" height="357" key="GridCell.Tab.2.bottom" timestamp="1608045930181">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
@@ -692,14 +509,14 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2261" y="147" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610520952662" />
-    <state x="2352" y="238" key="Vcs.Push.Dialog.v2" timestamp="1610519894493">
+    <state x="2352" y="238" key="Vcs.Push.Dialog.v2" timestamp="1610589439009">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2352" y="238" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610519894493" />
-    <state x="2440" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1610587951760">
+    <state x="2352" y="238" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589439009" />
+    <state x="2440" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1610671596947">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2440" y="329" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610587951760" />
+    <state x="2440" y="329" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610671596947" />
     <state x="2311" y="241" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607579446562">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>

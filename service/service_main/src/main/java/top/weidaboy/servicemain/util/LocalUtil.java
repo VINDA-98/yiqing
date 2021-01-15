@@ -4,7 +4,6 @@ import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -13,8 +12,9 @@ import java.util.List;
 public class LocalUtil {
     //各地区xml文件路径
     private static final String LOCAL_LIST_PATH
-            = "D:\\ADaDemo\\graduation\\service\\service_main\\src\\main\\java\\top\\weidaboy\\servicemain\\mapper\\xml\\LocList.xml";
-
+              // = LocalUtil.class.getClassLoader().getResource("LocList.xml").getPath();
+              //  = "D:\\ADaDemo\\graduation\\service\\service_main\\src\\main\\java\\top\\weidaboy\\servicemain\\mapper\\xml\\LocList.xml";
+                = "C:\\LocList.xml";
     //所有国家名称List
     private static final List<String> COUNTRY_REGION = new ArrayList<String>();
     private static LocalUtil localutil;
@@ -117,8 +117,6 @@ public class LocalUtil {
         }
         return cities;
     }
-
-
 
     //获取县城
     public List<String> xiancheng(String countryName, String provinceName,String townName ){

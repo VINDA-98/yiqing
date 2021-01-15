@@ -13,6 +13,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.weidaboy</groupId>
+
     <artifactId>graduation</artifactId>
     <!--    添加pom类型-->
     <packaging>pom</packaging>
@@ -68,6 +69,8 @@
                 <scope>import</scope>
             </dependency>
             <!--mybatis-plus 持久层-->
+<!--            如果引用mybatis-plus-boot-starter 依赖，需要配置 mybatis-plus.mapper-locations-->
+<!--            如果引用mybatis-plus 依赖，需要配置 mybatis.mapper-locations-->
             <dependency>
                 <groupId>com.baomidou</groupId>
                 <artifactId>mybatis-plus-boot-starter</artifactId>
@@ -205,6 +208,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
 
 
 </project>

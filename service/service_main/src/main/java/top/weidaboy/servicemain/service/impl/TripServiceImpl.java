@@ -28,12 +28,13 @@ import java.util.Random;
 @Service
 public class TripServiceImpl extends ServiceImpl<TripMapper, Trip> implements TripService {
 
-    LocalUtil lu =  LocalUtil.getInstance(); //获取实例
     Random r=new Random();//设置随机种子
+    LocalUtil lu =  LocalUtil.getInstance(); //获取实例
 
     //获得随机行程
     @Override
     public String getRomdomAddress() {
+
             String trip = "";
             String city = "";
             String town = "";
