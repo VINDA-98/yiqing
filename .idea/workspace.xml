@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c10ca5ba-e2c8-4d04-9c17-4944a5db99e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-base/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/service/impl/TripServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/service/impl/TripServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/util/LocalUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/java/top/weidaboy/servicemain/util/LocalUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_main/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_main/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_yiqing/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_yiqing/src/main/resources/logback-spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,11 +301,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
@@ -380,7 +363,9 @@
       <workItem from="1610415680414" duration="4740000" />
       <workItem from="1610508196458" duration="8796000" />
       <workItem from="1610587916506" duration="8024000" />
-      <workItem from="1610671596777" duration="10542000" />
+      <workItem from="1610671596777" duration="10939000" />
+      <workItem from="1612866963894" duration="868000" />
+      <workItem from="1613371451803" duration="572000" />
     </task>
     <task id="LOCAL-00001" summary="我的毕设首次提交">
       <created>1610519882116</created>
@@ -396,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610589424683</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次部署成功">
+      <created>1610723521051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610723521051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +397,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="我的毕设首次提交" />
     <MESSAGE value="部署项目的相关操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="部署项目的相关操作" />
+    <MESSAGE value="第一次部署成功" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次部署成功" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2352" y="164" key="#Project_Structure" timestamp="1610589102309">
@@ -437,10 +430,11 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2490" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1609128702789" />
-    <state x="2214" y="97" key="CommitChangelistDialog2" timestamp="1610589407017">
-      <screen x="1920" y="0" width="1680" height="1010" />
+    <state x="269" y="10" key="CommitChangelistDialog2" timestamp="1610723516166">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2214" y="97" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589407017" />
+    <state x="269" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610723516166" />
     <state x="2540" y="255" width="440" height="494" key="FileChooserDialogImpl" timestamp="1610510568531">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
@@ -509,14 +503,17 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2261" y="147" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610520952662" />
-    <state x="2352" y="238" key="Vcs.Push.Dialog.v2" timestamp="1610589439009">
-      <screen x="1920" y="0" width="1680" height="1010" />
+    <state x="395" y="194" key="Vcs.Push.Dialog.v2" timestamp="1610723542771">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2352" y="238" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610589439009" />
-    <state x="2440" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1610671596947">
-      <screen x="1920" y="0" width="1680" height="1010" />
+    <state x="395" y="194" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610723542771" />
+    <state x="475" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1613371450092">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2440" y="329" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1610671596947" />
+    <state x="475" y="268" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.173.1600.860@0.0.1536.824" timestamp="1613371450092" />
+    <state x="2415" y="453" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.173.1600.860@1920.173.1600.860" timestamp="1612866965175" />
     <state x="2311" y="241" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607579446562">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
