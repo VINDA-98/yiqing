@@ -1,5 +1,0 @@
-top\weidaboy\servicemsm\config\Myconfig.class
-top\weidaboy\servicemsm\controller\SendEmailController.class
-top\weidaboy\servicemsm\service\AsyncService.class
-top\weidaboy\servicemsm\ServiceMSMApplication.class
-top\weidaboy\servicemsm\util\EmailUtils.class
