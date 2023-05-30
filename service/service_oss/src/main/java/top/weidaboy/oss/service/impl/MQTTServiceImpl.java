@@ -16,8 +16,8 @@ import top.weidaboy.oss.service.MQTTService;
 public class MQTTServiceImpl implements MQTTService {
     @Override
     public String SendData(String item,String data) throws ClientException {
-        String accessKey = "LTAI4G1gxt7tHossFAFyaBqp";  //将光标定位到账号头像上，选择accesskeys即可查看。
-        String accessSecret = "8NKnVKP6MlkwsRcHRAZxg5ssSyeRxb";
+        String accessKey = "";  //将光标定位到账号头像上，选择accesskeys即可查看。
+        String accessSecret = "";
         DefaultProfile.addEndpoint("cn-shanghai", "cn-shanghai", "Iot", "iot.cn-shanghai.aliyuncs.com");
         IClientProfile profile = DefaultProfile.getProfile("cn-shanghai", accessKey, accessSecret);
         DefaultAcsClient client = new DefaultAcsClient(profile);
